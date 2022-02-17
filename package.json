@@ -1,0 +1,19 @@
+{
+  "name": "mzlutils",
+  "version": "1.0.0",
+  "description": "mzliang 工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muziliangjs/mzl-utils.git"
+  },
+  "author": "mzliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muziliangjs/mzl-utils/issues"
+  },
+  "homepage": "https://github.com/muziliangjs/mzl-utils#readme"
+}
